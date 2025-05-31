@@ -1,1 +1,1 @@
-# jenkins_lab
+CI/CD Обучение модели v2
